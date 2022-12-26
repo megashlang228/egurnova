@@ -1,0 +1,8 @@
+D:\учеба\C#\egurnova\SearchTree9\bin\Debug\SearchTree9.exe.config
+D:\учеба\C#\egurnova\SearchTree9\bin\Debug\SearchTree9.exe
+D:\учеба\C#\egurnova\SearchTree9\bin\Debug\SearchTree9.pdb
+D:\учеба\C#\egurnova\SearchTree9\obj\Debug\SearchTree9.csproj.AssemblyReference.cache
+D:\учеба\C#\egurnova\SearchTree9\obj\Debug\SearchTree9.csproj.SuggestedBindingRedirects.cache
+D:\учеба\C#\egurnova\SearchTree9\obj\Debug\SearchTree9.csproj.CoreCompileInputs.cache
+D:\учеба\C#\egurnova\SearchTree9\obj\Debug\SearchTree9.exe
+D:\учеба\C#\egurnova\SearchTree9\obj\Debug\SearchTree9.pdb

@@ -1,0 +1,45 @@
+D:\Main\NET\TreeExample\TreeExample\bin\Debug\net6.0\TreeExample.exe
+D:\Main\NET\TreeExample\TreeExample\bin\Debug\net6.0\TreeExample.deps.json
+D:\Main\NET\TreeExample\TreeExample\bin\Debug\net6.0\TreeExample.runtimeconfig.json
+D:\Main\NET\TreeExample\TreeExample\bin\Debug\net6.0\TreeExample.dll
+D:\Main\NET\TreeExample\TreeExample\bin\Debug\net6.0\ref\TreeExample.dll
+D:\Main\NET\TreeExample\TreeExample\bin\Debug\net6.0\TreeExample.pdb
+D:\Main\NET\TreeExample\TreeExample\obj\Debug\net6.0\TreeExample.csproj.AssemblyReference.cache
+D:\Main\NET\TreeExample\TreeExample\obj\Debug\net6.0\TreeExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Main\NET\TreeExample\TreeExample\obj\Debug\net6.0\TreeExample.AssemblyInfoInputs.cache
+D:\Main\NET\TreeExample\TreeExample\obj\Debug\net6.0\TreeExample.AssemblyInfo.cs
+D:\Main\NET\TreeExample\TreeExample\obj\Debug\net6.0\TreeExample.csproj.CoreCompileInputs.cache
+D:\Main\NET\TreeExample\TreeExample\obj\Debug\net6.0\TreeExample.dll
+D:\Main\NET\TreeExample\TreeExample\obj\Debug\net6.0\ref\TreeExample.dll
+D:\Main\NET\TreeExample\TreeExample\obj\Debug\net6.0\TreeExample.pdb
+D:\Main\NET\TreeExample\TreeExample\obj\Debug\net6.0\TreeExample.genruntimeconfig.cache
+C:\Users\danil\Downloads\TreeExample (1)\TreeExample\bin\Debug\net6.0\TreeExample.exe
+C:\Users\danil\Downloads\TreeExample (1)\TreeExample\bin\Debug\net6.0\TreeExample.deps.json
+C:\Users\danil\Downloads\TreeExample (1)\TreeExample\bin\Debug\net6.0\TreeExample.runtimeconfig.json
+C:\Users\danil\Downloads\TreeExample (1)\TreeExample\bin\Debug\net6.0\TreeExample.dll
+C:\Users\danil\Downloads\TreeExample (1)\TreeExample\bin\Debug\net6.0\TreeExample.pdb
+C:\Users\danil\Downloads\TreeExample (1)\TreeExample\obj\Debug\net6.0\TreeExample.csproj.AssemblyReference.cache
+C:\Users\danil\Downloads\TreeExample (1)\TreeExample\obj\Debug\net6.0\TreeExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\Downloads\TreeExample (1)\TreeExample\obj\Debug\net6.0\TreeExample.AssemblyInfoInputs.cache
+C:\Users\danil\Downloads\TreeExample (1)\TreeExample\obj\Debug\net6.0\TreeExample.AssemblyInfo.cs
+C:\Users\danil\Downloads\TreeExample (1)\TreeExample\obj\Debug\net6.0\TreeExample.csproj.CoreCompileInputs.cache
+C:\Users\danil\Downloads\TreeExample (1)\TreeExample\obj\Debug\net6.0\TreeExample.dll
+C:\Users\danil\Downloads\TreeExample (1)\TreeExample\obj\Debug\net6.0\refint\TreeExample.dll
+C:\Users\danil\Downloads\TreeExample (1)\TreeExample\obj\Debug\net6.0\TreeExample.pdb
+C:\Users\danil\Downloads\TreeExample (1)\TreeExample\obj\Debug\net6.0\TreeExample.genruntimeconfig.cache
+C:\Users\danil\Downloads\TreeExample (1)\TreeExample\obj\Debug\net6.0\ref\TreeExample.dll
+C:\Users\danil\Downloads\TreeExample (2)\TreeExample\bin\Debug\net6.0\TreeExample.exe
+C:\Users\danil\Downloads\TreeExample (2)\TreeExample\bin\Debug\net6.0\TreeExample.deps.json
+C:\Users\danil\Downloads\TreeExample (2)\TreeExample\bin\Debug\net6.0\TreeExample.runtimeconfig.json
+C:\Users\danil\Downloads\TreeExample (2)\TreeExample\bin\Debug\net6.0\TreeExample.dll
+C:\Users\danil\Downloads\TreeExample (2)\TreeExample\bin\Debug\net6.0\TreeExample.pdb
+C:\Users\danil\Downloads\TreeExample (2)\TreeExample\obj\Debug\net6.0\TreeExample.csproj.AssemblyReference.cache
+C:\Users\danil\Downloads\TreeExample (2)\TreeExample\obj\Debug\net6.0\TreeExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\Downloads\TreeExample (2)\TreeExample\obj\Debug\net6.0\TreeExample.AssemblyInfoInputs.cache
+C:\Users\danil\Downloads\TreeExample (2)\TreeExample\obj\Debug\net6.0\TreeExample.AssemblyInfo.cs
+C:\Users\danil\Downloads\TreeExample (2)\TreeExample\obj\Debug\net6.0\TreeExample.csproj.CoreCompileInputs.cache
+C:\Users\danil\Downloads\TreeExample (2)\TreeExample\obj\Debug\net6.0\TreeExample.dll
+C:\Users\danil\Downloads\TreeExample (2)\TreeExample\obj\Debug\net6.0\refint\TreeExample.dll
+C:\Users\danil\Downloads\TreeExample (2)\TreeExample\obj\Debug\net6.0\TreeExample.pdb
+C:\Users\danil\Downloads\TreeExample (2)\TreeExample\obj\Debug\net6.0\TreeExample.genruntimeconfig.cache
+C:\Users\danil\Downloads\TreeExample (2)\TreeExample\obj\Debug\net6.0\ref\TreeExample.dll
